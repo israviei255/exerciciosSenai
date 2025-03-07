@@ -1,4 +1,4 @@
-package olamundo;
+package olamundo.nomesobrenome;
 import java.util.Scanner;
 
 public class NomeSobrenome {
